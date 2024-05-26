@@ -1,0 +1,51 @@
+﻿Employee Name,Report To,Title,Department,Start Date
+Denise Aristocles,,"VP, Engineering",,2015-01-15
+Rien Josse,Denise Aristocles,"Director, Hardware",Hardware,2017-02-03
+Emma Hannah,Denise Aristocles,"Director, Software",Software,2020-11-20
+Leyla Cilka,Denise Aristocles,"Director, Cloud Engineering",Cloud Engineering,2022-08-05
+Leutgar Medusa,Denise Aristocles,"Director, QA",QA,2012-03-13
+Claudius Junia,Denise Aristocles,"Director, PMO",PMO,2023-11-20
+Vanja Sultan,Rien Josse,"Senior Manager, Hardware",Hardware,2018-03-17
+Julie Victoria,Rien Josse,"Manager, Hardware",Hardware,2017-02-03
+Zhou Aiden,Rien Josse,HW Architect,Hardware,2014-04-09
+Waldebert Yasamin,Rien Josse,"Manager, Hardware",Hardware,2022-08-05
+Theophile Elodie,Rien Josse,Team Lead,Hardware,2015-01-15
+Mehmood Annibale,Rien Josse,Principal Software Engineer,Hardware,2014-04-09
+Sigismund Nina,Rien Josse,Principal Software Engineer,Hardware,2014-04-09
+Ondina Katarina,Vanja Sultan,Team Lead,Hardware,2021-12-01
+Maalik Iseult,Vanja Sultan,Team Lead,Hardware,2020-11-20
+Alexander Ofri,Vanja Sultan,Software Engineer,Hardware,2021-12-01
+Gayle Denisa,Vanja Sultan,Software Engineer,Hardware,2021-12-01
+Valentina Armando,Vanja Sultan,Team Lead,Hardware,2015-01-15
+Aabraham Orrell,Ondina Katarina,Software Engineer,Hardware,2015-01-01
+Julius Kalyan,Ondina Katarina,Software Engineer,Hardware,2020-04-19
+Leyla Cenhelm,Ondina Katarina,Software Engineer,Hardware,2022-08-05
+Tymon Ville,Maalik Iseult,Software Engineer,Hardware,2016-03-15
+Isak Teofilo,Maalik Iseult,Software Engineer,Hardware,2015-01-15
+Liora Herleif,Julie Victoria,Software Engineer,Hardware,2015-01-01
+Abdastartos Kevin,Julie Victoria,Software Engineer,Hardware,2022-12-09
+Delwyn Sigibert,Julie Victoria,Software Engineer,Hardware,2023-01-18
+Alemayehu Frieda,Julie Victoria,Software Engineer,Hardware,2022-08-05
+Buhle Hebe,Emma Hannah,Engineering Manager,Software,2017-02-03
+Vladimer Fachtna,Emma Hannah,Engineering Manager,Software,2024-02-25
+Abraham Hilja,Emma Hannah,Software Architect,Software,2020-11-20
+Rada Philandros,Buhle Hebe,Team Lead,Software,2022-08-05
+Siarl Narayana,Buhle Hebe,Team Lead,Software,2022-12-09
+Xanti Tomas,Buhle Hebe,Software Engineer,Software,2017-02-03
+Bacchus Roksana,Rada Philandros,Software Engineer,Software,2022-08-05
+Dimitri Vijay,Rada Philandros,Software Engineer,Software,2016-10-12
+Melete Jayant,Rada Philandros,Software Engineer,Software,2015-01-01
+Rosabella Meelis,Vladimer Fachtna,Software Engineer,Software,2015-01-01
+Karin Amna,Vladimer Fachtna,Software Engineer,Software,2015-12-12
+Archibald Balor,Vladimer Fachtna,Software Engineer,Software,2019-11-20
+Galatea Kore,Leyla Cilka,"Manager, Cloud Engineering",Cloud Engineering,2017-02-03
+Zoie Lucanus,Leyla Cilka,Team Lead,Cloud Engineering,2019-04-05
+Radim Nilay,Leyla Cilka,"Manager, Cloud Security",Cloud Engineering,2022-03-19
+Kobus Shulamite,Galatea Kore,Cloud Engineer,Cloud Engineering,2021-05-12
+Gittel Radojka,Galatea Kore,Cloud Engineer,Cloud Engineering,2015-12-12
+Dan Esmail,Leutgar Medusa,"Manager, QA",QA,2020-11-20
+Reinhold Hyacinthus,Leutgar Medusa,"Manager, QC",QA,2016-10-12
+Liana Sharon,Leutgar Medusa,QA Lead,QA,2024-02-25
+Chiamaka Purnima,Leutgar Medusa,QA Architect,QA,2023-01-18
+Temitope Ava,Claudius Junia,Agile Program Manager,PMO,2022-12-09
+Spartak Eligia,Claudius Junia,Agile Program Manager,PMO,2020-11-20
